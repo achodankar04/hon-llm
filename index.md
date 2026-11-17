@@ -14,8 +14,9 @@ This catalog is maintained after every ingest, filed query, and lint pass.
 
 ## Topics
 
-- [[run-device-management-locally-with-dev-db]] — Start the DM service locally against the dev database.
-- [[run-voiceconsole-mfe-with-local-dm-and-op]] — Run the Voice Console MFE against local DM and OP services.
+- [[vcng]] — VCNG main topic (Device Management, Operator Management, Voice Console MFE).
+  - [[run-device-management-locally-with-dev-db]] — Start the DM service locally against the dev database.
+  - [[run-voiceconsole-mfe-with-local-dm-and-op]] — Run the Voice Console MFE against local DM and OP services.
 
 ## Entities
 
