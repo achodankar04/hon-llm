@@ -10,10 +10,12 @@ This catalog is maintained after every ingest, filed query, and lint pass.
 ## Sources
 
 - [[karpathy-personal-knowledge-bases]] — Persistent LLM-maintained wiki pattern that inspired this vault.
+- [[vcng-local-dev-setup-session-2026-11-17]] — Observed local DM/MFE setup session (evidence for the local-dev how-tos).
 
 ## Topics
 
-_No topics created yet._
+- [[run-device-management-locally-with-dev-db]] — Start the DM service locally against the dev database.
+- [[run-voiceconsole-mfe-with-local-dm-and-op]] — Run the Voice Console MFE against local DM and OP services.
 
 ## Entities
 
