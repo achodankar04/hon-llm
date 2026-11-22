@@ -16,3 +16,8 @@ Append-only record of ingests, queries, filed answers, and lint passes.
 - Input: user request
 - Pages created/updated: [[vcng]], [[run-device-management-locally-with-dev-db]], [[run-voiceconsole-mfe-with-local-dm-and-op]], [[index]]
 - Notes: The two how-tos moved to `wiki/topics/vcng/`; `wiki/topics/vcng.md` is the main topic page.
+
+## [2026-11-21] ingest | VoiceCheck application, codebase and microservices design
+- Input: Copilot sessions of 2026-11-20 (UI walk-through, code reading, design proposal); no file in `raw/`
+- Pages created/updated: [[voicecheck-ui-exploration-2026-11-20]], [[voicecheck-codebase-analysis-2026-11-20]], [[voicecheck-microservices-design-2026-11-20]], [[voicecheck]], [[voicecheck-application-features]], [[voicecheck-codebase-overview]], [[voicecheck-device-protocol]], [[voicecheck-integrations-and-pipelines]], [[voicecheck-database-schema]], [[epp-platform-framework]], [[voicecheck-performance-and-scaling-constraints]], [[voicecheck-microservices-architecture]], [[voicecheck-target-data-model]], [[index]]
+- Notes: This repository is public, so at the user's request security findings, the lab server address, internal repository URLs and all credentials were left out. Items marked (unverified) were inferred from code; the architecture is a proposal.
